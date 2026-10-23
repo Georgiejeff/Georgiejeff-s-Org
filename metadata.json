@@ -1,0 +1,8 @@
+{
+  "name": "Rise of the Iron Warrior",
+  "description": "Photorealistic 30-second Marvel-inspired superhero cinematic VFX experience, transformation timeline, and AI video animation studio powered by Gemini Omni Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
